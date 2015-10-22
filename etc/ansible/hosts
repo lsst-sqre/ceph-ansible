@@ -1,0 +1,12 @@
+[mons]
+ceph0.lsst.codes
+ceph1.lsst.codes
+ceph2.lsst.codes
+
+[osds]
+ceph0.lsst.codes
+ceph1.lsst.codes
+ceph2.lsst.codes
+
+[rgws]
+ceph1.lsst.codes
